@@ -2,7 +2,7 @@
 - 💻 Técnica (iniciante) em Desenvolvimento de Sistemas
 - 📚 Atualmente estudo na ETEC Antônio Devisate
 - 😄 Pronomes: ela/dela
-- 🦋 Fun fact: Gosta de animes, jogos e design digital :)
+- 🦋  Fun Facts: Gosta de animes, jogos e design digital :)
 
 
 
