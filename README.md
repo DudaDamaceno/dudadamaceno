@@ -1,12 +1,11 @@
 ### Olá, seja muito bem-vindo(a)!💕
 - 💻 Técnica (iniciante) em Desenvolvimento de Sistemas
-- 📚 Atualmente estudo na ETEC Antônio Devisate
-- 😄 Pronomes: ela/dela
-- 🦋  Fun Facts: Gosta de animes, jogos e design digital :)
+- 💼 Cursando Informática e Administração
+- 📚 Atualmente estudando na ETEC Antônio Devisate
+- 💬 Entrar em contato por: E-mail
+- ✨ Pronomes: ela/dela
+- 🦋 Fun Facts: Gosta de animes, músicas e jogos, aprender coisas novas e brincar com design digital :)
 
 
 
-<!--
-**DudaDamaceno/dudadamaceno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
--->
