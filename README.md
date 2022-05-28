@@ -1,5 +1,5 @@
 ### Olá, seja muito bem-vindo(a)!💕
-- 💻 Técnica (iniciante) em Desenvolvimento de Sistemas
+- 💻 Técnica em Desenvolvimento de Sistemas
 - 💼 Cursando Informática e Administração
 - 📚 Atualmente estudando na ETEC Antônio Devisate
 - 💬 Entrar em contato por: E-mail
